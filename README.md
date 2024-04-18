@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrham Belayineh</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
 
-<img widht="400" alt="coding" src="https://giphy.com/embed/zhYSVCirREeIZtONCI" align="right">
+<img widht="400" alt="coding" src="giphy.gif" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrsh6266&label=Profile%20views&color=0e75b6&style=flat" alt="abrsh6266" /> </p>
 
