@@ -1,4 +1,4 @@
-![logo](https://github.com/abrsh6266/abrsh6266/blob/main/github-header-image.png)
+<img width="1000" alt="img" src="https://github.com/abrsh6266/abrsh6266/blob/main/github-header-image.png">
 
 <h1 align="center">Hi 👋, I'm Abrham Belayineh</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
