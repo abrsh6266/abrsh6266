@@ -30,6 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrsh6266&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrsh6266&theme=radical" alt="GitHub Streak" /></p>
-
-
-this is my github readme. so I want you to make more atractve and perfect looking  and make more unique and perfect design
