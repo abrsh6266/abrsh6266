@@ -17,7 +17,6 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abrsh6266/abrsh6266/main/abxo9.gif" />
 
-```yaml
 name: Abrham Belayineh
 location: Ethiopia 🇪🇹
 role: Full Stack Developer
@@ -216,5 +215,3 @@ expertise:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer" width="100%" />
 
 </div>
-
-```
