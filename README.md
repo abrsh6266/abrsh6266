@@ -16,7 +16,8 @@
 
 </div>
 
----## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Auni/Tarikul-Islam-Auni/main/Assets/Hi.gif" width="28px"> About Me<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abrsh6266/abrsh6266/main/abxo9.gif" />```yaml
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Auni/Tarikul-Islam-Auni/main/Assets/Hi.gif" width="28px"> About Me<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abrsh6266/abrsh6266/main/abxo9.gif" />`
+``yaml
 
 name: Abrham Belayineh
 
