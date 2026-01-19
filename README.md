@@ -17,6 +17,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abrsh6266/abrsh6266/main/abxo9.gif" />
 
+```yaml
 name: Abrham Belayineh
 location: Ethiopia 🇪🇹
 role: Full Stack Developer
@@ -27,8 +28,8 @@ expertise:
   backend: [Node.js, Express, Laravel, Go, .NET]
   mobile: [Flutter, React Native]
   databases: [MongoDB, PostgreSQL, MySQL, MSSQL]
-
-<br/>
+  ```
+  <br/>
 
 🔭  Currently building amazing web applications
 💬  Ask me about React, Vue, Laravel, Express, Go, .NET
