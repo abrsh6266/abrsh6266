@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/abrsh6266/abrsh6266/blob/main/github-header-image.png" width="100%" alt="Header" />
 
-
   <h1 align="center">Hi 👋, I'm Abrham Belayineh</h1>
   <h3 align="center">🚀 A passionate Fullstack Developer from Ethiopia</h3>
 
